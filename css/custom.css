@@ -57,6 +57,9 @@
 #contato nav a:link {
 	color: #507e78;
 }
+#contato a:link{
+	color: #507e78;
+}
 #contato a:visited {
 	color: #507e78;
 }
